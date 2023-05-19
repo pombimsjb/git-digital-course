@@ -7,3 +7,4 @@
 ## Aula 05 - Git Commid, Git Diff e rm
 ## Aula 06 - Git Log e restore
 ## Aula 07 - Repositórios remotos
+* Comando Git Pull
