@@ -14,4 +14,4 @@
 * Foi feita uma explicação básica da ferramente
 
 ## Aula 09 - Git Branch
-https://github.com/pombimsjb/git-digital-course/blob/master/GitBranch.png?raw=true
+![Slide da aula](https://github.com/pombimsjb/git-digital-course/blob/master/GitBranch.png)
