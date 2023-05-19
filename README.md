@@ -9,3 +9,8 @@
 ## Aula 07 - Repositórios remotos
 * Comando Git Pull
 * Comando Git Fetch
+
+## Aula 08 - GitHub
+* Foi feita uma explicação básica da ferramente
+
+## Aula 09 - Git Branch
