@@ -5,3 +5,4 @@
 ## Aula 03 - Criação inicial de pasta de projeto
 ## Aula 04 - Gravando mudanças no repositório
 ## Aula 05 - Git Commid, Git Diff e rm
+## Aula 06 - Git Log e restore
