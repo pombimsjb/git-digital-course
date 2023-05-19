@@ -8,3 +8,4 @@
 ## Aula 06 - Git Log e restore
 ## Aula 07 - Repositórios remotos
 * Comando Git Pull
+* Comando Git Fetch
